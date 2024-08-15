@@ -1,4 +1,4 @@
-# REACT TASK 2 SHOPPING CART
+# REACT SHOPPING CART
 
 **This Repository is created for React Task 2 : Shopping Cart**
 
@@ -34,12 +34,6 @@
 
 <h2 align="left">Tools Used :</h2>
 
-###
-
-<div align="left">
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="vscode logo"  />
-  <img width="12" />
-
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
   <img width="12" />
 
@@ -52,4 +46,4 @@
 
 ###
 
-🔸*Check out My Shopping Cart Here*👉🏻 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://shopping-cart-react-task-2.netlify.app/#)
+🔸*Check out My Shopping Cart Here*👉🏻 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://add-to-cart-organics.netlify.app/)
